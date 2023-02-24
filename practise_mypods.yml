@@ -1,4 +1,4 @@
-apiVersion: io.k8s.api.core.v1.Pod
+apiVersion: v2
 kind: Pod
 metadata:
   name: hello-pod
